@@ -15,3 +15,5 @@ Dependences:
 - sane-backends for scanimage utility
 - ImageMagic for convert utility
 - Fred Weinhaus's negative2positive that you can get here http://www.fmwconcepts.com/imagemagick/negative2positive/index.php
+
+The source of inspiration - https://zephyrsoft.org/blog/34-digitize-slides-and-prints-on-linux
